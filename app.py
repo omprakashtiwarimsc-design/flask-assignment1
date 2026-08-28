@@ -4,11 +4,11 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Welcome to the App"
+    return "Welcome To the App"
 
 @app.route('/health')
 def health():
-    return "App is running"
+    return "App is running fine"
 
 if __name__ == '__main__':
     app.run(debug=True)
