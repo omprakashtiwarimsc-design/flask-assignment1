@@ -84,9 +84,11 @@ directly to main at any point.
 
 
 ### Branch Structure on GitHub
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/62336cb3-1aee-4181-a181-4d321803918c" />
 
 
 ### Commit and Merge History
+<img width="2694" height="746" alt="image" src="https://github.com/user-attachments/assets/51f1c7e0-ae01-4908-aa19-872ae43bf8d6" />
 
 
 
