@@ -23,7 +23,7 @@ Prerequisites
 Steps
 
     # Clone the repository
-    git clone https://github.com/YOUR_USERNAME/flask-assignment.git
+    git clone https://github.com/omprakashtiwarimsc-design/flask-assignment1.git
 
     # Navigate into the project folder
     cd flask-assignment
